@@ -103,7 +103,7 @@ urlpatterns = [
 
 ## OUTPUT:
 
-### Home Page:
+![output](https://github.com/RanjithD18/serversideprocessing/blob/main/Screenshot%20(95).png)
 
 
 ## Result:
